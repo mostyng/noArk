@@ -1,7 +1,6 @@
 body{
     background-color: #f9f9f9;
     max-width: 600px;
-
 }
 
 
@@ -141,7 +140,7 @@ p {
     
 /*    right: 0;
 */
-
+    cursor: pointer;
 }
 
 .one.clicked {
@@ -165,7 +164,7 @@ p {
         position: absolute;
 
         line-height: 1.0;
-
+        cursor: pointer;
 
 }
 
@@ -198,6 +197,7 @@ p {
     z-index: 6;
     position: absolute;
     text-align: left;
+    cursor: pointer;
 
 
 /*    line-height: 1200px;
@@ -243,8 +243,9 @@ p {
     transition: 1s ease-in-out; 
     position: absolute;
     z-index: 5;
-
     text-align: right;
+    cursor: pointer;
+
 }
 
 .four.quicked{
@@ -263,6 +264,7 @@ p {
     border: 7px solid black;
     position: absolute;
     z-index: 4;
+    cursor: pointer;
 
     font-size: 30px;
 }
@@ -276,6 +278,7 @@ p {
     border: 7px solid black;
     position: absolute;
     z-index: 3;
+    cursor: pointer;
 
     font-size: 30px;
 
@@ -290,6 +293,7 @@ p {
     border: 7px solid black;
     position: absolute;
     z-index: 3;
+    cursor: pointer;
 
     text-align: right;
     font-size: 30px;
@@ -305,6 +309,7 @@ p {
     border: 7px solid black;
     position: absolute;
     z-index: 1;
+    cursor: pointer;
 
     text-align: right;
     font-size: 30px;
